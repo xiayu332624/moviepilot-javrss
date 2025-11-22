@@ -1,0 +1,7 @@
+{
+  "name": "my_plugin",
+  "version": "1.0",
+  "description": "我的第一个 MoviePilot 插件",
+  "author": "你的名字",
+  "level": 1
+}
